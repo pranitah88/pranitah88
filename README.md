@@ -21,6 +21,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=pranitah88&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
