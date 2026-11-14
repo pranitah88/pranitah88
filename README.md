@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on AI/ML, web dev, and cloud apps<br><br>👯 I’m looking to collaborate on beginner-friendly open-source projects<br><br>🤝 I’m looking for help with Data Structures, Algorithms, and ML<br><br>🌱 I’m currently learning Python, Java, and Cloud Computing<br><br>💬 Ask me about Python, Java, and my projects<br><br>⚡ Fun fact: I love sketching, music, and turning random ideas into projects
 
@@ -21,7 +26,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=pranitah88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
