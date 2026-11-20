@@ -1,49 +1,42 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-# 💫 About Me:
-🔭 I’m currently working on AI/ML, web dev, and cloud apps<br><br>👯 I’m looking to collaborate on beginner-friendly open-source projects<br><br>🤝 I’m looking for help with Data Structures, Algorithms, and ML<br><br>🌱 I’m currently learning Python, Java, and Cloud Computing<br><br>💬 Ask me about Python, Java, and my projects<br><br>⚡ Fun fact: I love sketching, music, and turning random ideas into projects
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/pranita-hulawale852006) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pranu_08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranitahulawale88@gmail.com) 
 
 # 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranitah88&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=pranitah88&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
 
 
 
 # Hi, I'm Pranita Hulawale 👋
 
-\<p align="center">   \<strong>Engineering Student | AI/ML Enthusiast | Developer\</strong> \</p>
+<p align="center">
+  <strong>Engineering Student | AI/ML Enthusiast | Developer</strong>
+</p>
 
-\<p align="center">   Exploring the intersection of Artificial Intelligence, Software Development, and Cloud Computing. \</p>
-
----
+<p align="center">
+  Exploring the intersection of Artificial Intelligence, Software Development, and Cloud Computing.
+</p>
 
 ## 👩‍💻 About Me
 
-I'm an engineering student passionate about building practical projects and exploring emerging technologies. I enjoy turning ideas into working applications while continuously learning and improving my skills.
+## About Me
 
-- 🔭 Currently exploring **AI/ML, Web Development, and Cloud Computing**
-- 🌱 Learning **Python, Java, Data Structures & Algorithms, and AWS**
-- 🤝 Interested in collaborating on **beginner-friendly open-source projects**
-- 💡 Exploring ways to apply technology to real-world problems
-- 🎨 Outside of coding, I enjoy **sketching, music, and discovering new places**
+I am an engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Software Development. I enjoy exploring new technologies, understanding how things work, and applying what I learn through hands-on projects.
+
+My goal is to develop practical problem-solving skills and build meaningful applications that address real-world challenges. I believe in continuous learning, experimenting with new ideas, and improving through practical experience.
+
+### Areas of Interest
+- Artificial Intelligence and Machine Learning
+- Web Application Development
+- Cloud Computing and Cloud-Based Solutions
+- Open-Source Development and Collaboration
+
+### Currently Learning
+- Python and Java
+- Data Structures and Algorithms
+- Machine Learning Concepts
+- Cloud Technologies and AWS
+
+Beyond technology, I enjoy sketching, listening to music, and exploring new places.
 
 ---
 
@@ -57,15 +50,24 @@ I'm an engineering student passionate about building practical projects and expl
 
 ## 🌐 Connect With Me
 
-\<p align="center">   \<a href="[https://linkedin.com/in/pranita-hulawale852006](https://linkedin.com/in/pranita-hulawale852006)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />   \</a>   \<a href="[https://pinterest.com/Pranu_08](https://pinterest.com/Pranu_08)">     \<img src="[https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)" alt="Pinterest" />   \</a>   \<a href="mailto\:pranitahulawale88\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />   \</a> \</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranita-hulawale852006)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pranu_08)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/pranitahulawale)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranitahulawale88@gmail.com)
+
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
-\<p align="center">   \<img src="[https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg](https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg)" alt="GitHub Contribution Snake Animation" /> \</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranitah88/pranitah88/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=pranitah88&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=pranitah88\&style=flat-square\&color=blue)" alt="Profile Views" /> \</p>
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
 
-\<p align="center">   \<i>Always learning. Always building. Always improving.\</i> \</p>
-
+[![](https://komarev.com/ghpvc/?username=pranitah88&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
