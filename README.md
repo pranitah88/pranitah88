@@ -1,8 +1,9 @@
-
 <p align="center">
-  <img src="./pranita_github_banner_binary_optimized.gif"
-       width="100%"
-       alt="Pranita's AI/ML GitHub Banner">
+  <img
+    src="./pranita_github_banner_binary_short_optimized.gif"
+    width="100%"
+    alt="Pranita's AI/ML GitHub Banner"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Pranita Hulawale 👋</h1>
