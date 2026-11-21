@@ -1,13 +1,4 @@
-
-
-
-
-# 
-
-
-
-# Hi, I'm Pranita Hulawale 👋
-
+# # Hi, I'm Pranita Hulawale 👋
 <p align="center">
   <strong>Engineering Student | AI/ML Enthusiast | Developer</strong>
 </p>
@@ -55,9 +46,9 @@ Beyond technology, I enjoy sketching, listening to music, and exploring new plac
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pranu_08)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/pranitahulawale)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranitahulawale88@gmail.com)
-
-
 ---
+
+
 
 ## Contribution Activity
 
@@ -69,6 +60,10 @@ Beyond technology, I enjoy sketching, listening to music, and exploring new plac
   <i>Always learning. Always building. Always improving.</i>
 </p>
 
+
+
 [![](https://komarev.com/ghpvc/?username=pranitah88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
